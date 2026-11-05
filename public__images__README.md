@@ -1,0 +1,1 @@
+Letakkan logo kompetisi, logo klub, banner, dan aset gambar di folder ini.

@@ -1,0 +1,1 @@
+export default function Page() { return <div><div className='mb-2 text-sm font-semibold uppercase tracking-widest text-red-600'>peserta</div><h1 className='text-3xl font-black'>Dokumen</h1><p className='mt-3 text-neutral-600'>Kerangka halaman Dokumen. Implementasikan fitur dan integrasi database pada tahap pengembangan berikutnya.</p></div>; }

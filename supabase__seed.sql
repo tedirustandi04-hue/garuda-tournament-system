@@ -1,0 +1,1 @@
+-- Data awal kategori usia dapat ditambahkan setelah aturan kompetisi ditetapkan.

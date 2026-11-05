@@ -1,0 +1,1 @@
+Tempatkan definisi TypeScript untuk entitas database dan payload API.

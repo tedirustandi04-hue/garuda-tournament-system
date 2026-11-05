@@ -1,0 +1,1 @@
+export default function RegisterPage() { return <main className="mx-auto max-w-xl p-8"><h1 className="text-3xl font-black">Pendaftaran Klub</h1><p className="mt-2 text-neutral-600">Halaman kerangka. Form pendaftaran dan penyimpanan Supabase akan dibuat pada tahap implementasi.</p></main>; }

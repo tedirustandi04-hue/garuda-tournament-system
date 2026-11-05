@@ -1,0 +1,1 @@
+Tempatkan komponen reusable: tombol, modal, tabel, form, kartu statistik, navigasi, dan komponen kompetisi.

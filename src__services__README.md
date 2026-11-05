@@ -1,0 +1,1 @@
+Tempatkan fungsi akses data/API untuk klub, pemain, official, jadwal, hasil, klasemen, dan ID Card.

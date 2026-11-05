@@ -1,0 +1,7 @@
+PAKET FLAT / DATAR
+
+Semua file diletakkan dalam satu folder. Nama file menyimpan jalur folder asal dengan pemisah '__'.
+Contoh: src__app__page.tsx berarti file asalnya adalah src/app/page.tsx.
+
+PERHATIAN: Paket flat ini untuk melihat, mengirim, atau mengelola file satu per satu dengan mudah. Jangan langsung menjalankan aplikasi dari paket ini karena Next.js membutuhkan struktur folder aslinya.
+Untuk upload dan menjalankan aplikasi di GitHub/Vercel, gunakan paket github-structured.

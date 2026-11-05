@@ -1,0 +1,1 @@
+Simpan file SQL migration berurutan di folder ini.

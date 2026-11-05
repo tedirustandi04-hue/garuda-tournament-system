@@ -1,0 +1,1 @@
+Tempatkan konfigurasi Supabase browser/server di folder ini. Jangan menyimpan service role key di frontend.
